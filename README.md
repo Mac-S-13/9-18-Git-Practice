@@ -5,6 +5,6 @@ Mac S
 
 ![Project NemesisScreenshot](NemesisScreenshot.png)
 
-Junior
+Class of 2028
 
 I plan to work on documenting and hopefully implementing the core game loop as well has hopefully implementing multiplayer in Such Life.
